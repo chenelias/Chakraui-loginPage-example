@@ -1,3 +1,2 @@
 ## Chakra UI Login Page
-
->For learning Project!
+The example show how easy to build the site with chakra-ui
